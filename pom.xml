@@ -17,6 +17,10 @@
         <microprofile.version>6.1</microprofile.version>
     </properties>
 
+    <build>
+        <finalName>openapibeanvalidation</finalName>
+    </build>
+    
     <dependencies>
         <dependency>
             <groupId>jakarta.platform</groupId>
